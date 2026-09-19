@@ -1,6 +1,6 @@
 # humanizer-es
 
-Una skill para que la IA escriba **en español** con muchos menos tics de IA.
+Una skill para que la IA escriba **en español** con muchos menos patrones de IA.
 
 No es un detector: no decide si un texto lo ha escrito una máquina ni demuestra lo contrario. Es una lista de patrones y calcos revisada a mano, con los falsos positivos que eso implica, más un hueco para tu voz que tienes que rellenar tú.
 
